@@ -1,5 +1,3 @@
-Automated Reminders and Goal-Setting using AI
-==========================================================================================================
 
 Incorporating mindfulness practices into daily life can be challenging, especially when dealing with busy schedules and distractions. In this chapter, we explore how AI can streamline daily mindfulness practices by providing automated reminders and goal-setting tools.
 

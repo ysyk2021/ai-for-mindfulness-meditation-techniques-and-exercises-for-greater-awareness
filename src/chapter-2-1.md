@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-====================================================================================================================
 
 AI has the potential to enhance the overall mindfulness experience, but it requires the right tools and technologies. This chapter provides an overview of available tools and technologies for AI-driven mindfulness meditation.
 

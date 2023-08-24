@@ -1,5 +1,3 @@
-Automated Guided Meditations using AI
-================================================================================================
 
 Mindfulness practice can help individuals reduce stress and enhance relaxation, but finding the time and motivation to meditate consistently can be challenging. This chapter explores how AI can enhance relaxation and stress-relief through automated guided meditations using AI.
 
