@@ -6,3 +6,7 @@ The use of AI in mindfulness meditation is a relatively new field, but it has al
 Overall, this book provides a comprehensive overview of how AI can be used to enhance our mindfulness meditation practice. It is intended for anyone interested in mindfulness, meditation, and personal development, as well as those curious about the potential of AI in enhancing mental well-being.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
