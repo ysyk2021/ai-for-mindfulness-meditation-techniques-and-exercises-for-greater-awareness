@@ -1,5 +1,4 @@
-Chapter 15: Emerging Trends in AI for Mindfulness and Mental Health Enhancement
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting emerging trends in the field of AI for mindfulness and mental health enhancement. As technology continues to advance, new approaches are being developed to leverage artificial intelligence (AI) to enhance mindfulness practices and support mental well-being. This chapter highlights some of the key trends that are shaping the future of AI in these domains.
 

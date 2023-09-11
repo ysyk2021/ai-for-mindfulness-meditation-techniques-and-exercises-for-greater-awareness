@@ -1,5 +1,4 @@
-Chapter 5: Automated Reminders and Goal-Setting using AI
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the powerful intersection of artificial intelligence (AI) and mindfulness meditation by examining how AI can be utilized to automate reminders and facilitate goal-setting for individuals seeking greater awareness and well-being. By harnessing the capabilities of AI algorithms, individuals can receive personalized and timely prompts that support their mindfulness practice, helping them stay focused, motivated, and aligned with their goals. This chapter delves into the potential benefits, challenges, and ethical considerations in implementing automated reminders and goal-setting with AI.
 

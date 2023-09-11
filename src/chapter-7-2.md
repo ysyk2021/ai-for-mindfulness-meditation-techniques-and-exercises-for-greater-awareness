@@ -1,5 +1,4 @@
-Chapter 12: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of mitigating risks and ensuring compliance in the context of AI-powered mindfulness meditation. As artificial intelligence (AI) technologies become more integrated into mindfulness practices, it is crucial to address potential risks and adhere to legal and ethical standards to protect user well-being and maintain trust in these tools and technologies.
 

@@ -1,5 +1,4 @@
-Chapter 5: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the diverse range of tools and technologies available in the field of AI for mindfulness meditation. These tools and technologies offer valuable resources to support individuals in their journey towards greater awareness and well-being. This chapter explores various categories of AI-powered tools and technologies, their features, and how they can enhance mindfulness practice.
 

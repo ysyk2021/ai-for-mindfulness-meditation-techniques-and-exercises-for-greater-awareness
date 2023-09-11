@@ -1,5 +1,4 @@
-Chapter 7: Selecting the Right Tools for Your Mindfulness Meditation Needs
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the process of selecting the right tools for your mindfulness meditation needs. With the wide range of AI-powered tools and technologies available, it's essential to consider factors such as functionality, personal preferences, and alignment with your mindfulness goals. This chapter provides guidance on how to choose the tools that will best support your mindfulness practice.
 

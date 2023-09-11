@@ -1,5 +1,4 @@
-Chapter 10: Importance of Ethical and Unbiased Mindfulness Meditation Practices
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we highlight the significance of ethical and unbiased mindfulness meditation practices in the context of AI. As artificial intelligence (AI) technologies become more integrated into mindfulness experiences, it is essential to prioritize ethical considerations and ensure that mindfulness practices remain unbiased, inclusive, and aligned with the values of compassion and well-being.
 

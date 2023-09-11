@@ -1,5 +1,4 @@
-Chapter 8: Automated Guided Meditations Using AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the application of artificial intelligence (AI) in automating guided meditations. By harnessing AI algorithms, automated guided meditation systems can offer personalized and immersive experiences that support individuals in their mindfulness practice. This chapter delves into the benefits, challenges, and ethical considerations associated with automated guided meditations using AI.
 
